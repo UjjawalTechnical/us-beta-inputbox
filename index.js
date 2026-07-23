@@ -1,5 +1,6 @@
 import React, { useState, useRef, useImperativeHandle, forwardRef, useId } from "react";
 import { Eye, EyeOff, X, Search, Mail, Lock, User, DollarSign, Hash } from "lucide-react"; 
+import "us-beta-inputbox/styles.css";
 
 /* ----------- Utils Start ---------- */
 export const convertToNumber = (value) => {
