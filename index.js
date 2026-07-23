@@ -159,7 +159,7 @@ export const InputBox = forwardRef(function InputBox(
 
       <div
         className={[
-          "flex items-center gap-2 transition-all duration-150",
+          "flex items-center gap-2 transition-all duration-150 w-full px-3 py-2 text-sm rounded-lg border border-slate-200 dark:border-slate-600 dark:bg-slate-800 dark:text-slate-100 focus:border-primary-400 focus:ring-1 focus:ring-primary-400 outline-none bg-white disabled:bg-slate-50 dark:disabled:bg-slate-700",
           variant === "underline" ? "" : "rounded-lg",
           hasStartIcon ? preset.pl : "",
           hasEndAdornment ? preset.pr : "",
