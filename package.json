@@ -1,6 +1,6 @@
 {
   "name": "us-beta-inputbox",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "feat(InputBox): reusable input with icons, custom height, focus/error states, password toggle, clear button, and dynamic decimal-aware numeric handling via allowDecimal(value, places) and returnAsNumber for typed number output.",
   "homepage": "https://github.com/UjjawalTechnical/us-beta-inputbox#readme",
   "bugs": {
