@@ -1,8 +1,7 @@
 module.exports = {
   content: [
     "./index.js",
-    "./README.md",
-    "./**/*.{js,jsx,ts,tsx}"
+    "./src/**/*.{js,jsx,ts,tsx}"
   ],
   theme: {
     extend: {},
